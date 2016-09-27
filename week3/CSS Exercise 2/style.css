@@ -1,0 +1,11 @@
+body{
+  background-color:red
+}
+.green{
+  color:green;
+  font-style: italic;
+}
+.thirty{
+  display:inline;
+  font-size: 30px
+}

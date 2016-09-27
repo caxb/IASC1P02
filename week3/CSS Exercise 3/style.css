@@ -1,0 +1,9 @@
+.font{
+  font-family: "Arial";
+  text-transform:uppercase;
+}
+.border{
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+}
