@@ -1,0 +1,26 @@
+.black{
+  margin: 110px 110px 110px 110px;
+  border: black 3px solid;
+  padding: 0px;
+}
+
+#greenborder{
+  margin:20px 20px 20px 20px;
+  border: green 2px dashed;
+  padding:10px;
+}
+
+#yellowborder{
+  margin:0px;
+  border: yellow 3px dashed;
+  padding: 20px;
+}
+
+.red{
+  color:red;
+}
+
+
+body{
+  background-color: blue
+}
