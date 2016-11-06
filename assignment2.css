@@ -1,0 +1,38 @@
+.color{
+  color: #003366;
+}
+
+.size{
+  font-size: 11pt;
+}
+
+.font{
+  font-family: "Comic Sans MS"; cursive;
+}
+
+.capitalize{
+  text-transform: capitalize;
+}
+
+.image{
+  position:relative;
+  top:1px;
+  bottom:1px;
+}
+
+.catdog, .title{
+  text-align: center;
+}
+
+.box{
+  width:300px;
+  border:10px solid #003366;
+  padding:40px;
+  margin:40px;
+}
+
+.paragraphs{
+  font-family: "Comic Sans MS"; cursive;
+  font-size:12pt;
+  color:#001a33;
+}
