@@ -1,0 +1,60 @@
+#wrapper {
+    height: 1200px;
+    width: 1450px;
+    color:black;
+}
+
+/*Footer Style*/
+#footer{
+  height: 50px;
+  width: 1450px;
+  border-top: double #00091a;
+  border-top-width: 10px;
+}
+
+/*Homepage button*/
+.circleborder {
+    width:50px;
+    margin: 10px;
+    border:3px solid #00091a;
+    border-radius: 100px;
+    padding:10px;
+
+}
+
+.img-circle {
+    border-radius: 50%;
+    width:50px;
+    height:50px;
+}
+
+/*Styles and positions title*/
+.title{
+  font-size: 60pt;
+  font-style: italic;
+  font-weight: bolder;
+  color: white;
+  position: fixed;
+  top: 250px;
+  left: 650px;
+}
+
+/*positions counter*/
+.counter{
+  color:white;
+  text-align:center;
+  position:relative;
+  top: 20px;
+}
+
+/*makes background black*/
+body{
+  background-color: black;
+}
+
+/*positions image*/
+.picture{
+  position: relative;
+  margin:0;
+  height:950px;
+}
