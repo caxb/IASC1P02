@@ -1,0 +1,80 @@
+/*applies and fits background image*/
+body {
+    background-image: url("http://img08.deviantart.net/8912/i/2013/084/1/1/wall_big_dream__d_by_analaurasam-d5z8oj0.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+
+  /*Header and Navigation Style*/
+  #header{
+      height: 90px;
+      width: 4000px;
+      border-bottom: double #b3003b;
+      border-bottom-width: 10px;
+  }
+
+  .circleborder {
+      width:50px;
+      margin: 10px;
+      border:3px solid #2eb8b8;
+      border-radius: 100px;
+      padding:10px;
+
+  }
+
+  .img-circle {
+      border-radius: 50%;
+      width:50px;
+      height:50px;
+  }
+
+  #sideline{
+    height: 100%;
+    width: 100px;
+    border-right: dotted #2eb8b8;
+    border-right-width: 5px;
+  }
+  /*Wrapper Style*/
+  #wrapper {
+      height: 820px;
+      width: 4000px;
+  }
+
+  /*Footer Style*/
+  #footer{
+    height: 50px;
+    width: 4000px;
+    border-top: double #b3003b;
+    border-top-width: 10px;
+  }
+
+/*positions title*/
+.title{
+  font-size: 60pt;
+  font-style: italic;
+  font-weight: bolder;
+  color: white;
+  position: fixed;
+  top: 100px;
+  left: 500px;
+
+}
+
+/*positions button*/
+.button{
+  position:fixed;
+  top:400px;
+  left:500px;
+}
+/*makes text white and positions it*/
+.text{
+  color: #13263a;
+  font-size: 14pt;
+  font-family: serif;
+  font-weight: bolder;
+  position:fixed;
+  top:420px;
+  left:550px;
+}
